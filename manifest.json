@@ -1,0 +1,12 @@
+{
+  "name": "LuckyTouch",
+  "version_number": "1.2.1",
+  "website_url": "",
+  "description": "团队运气系统：抓取价格影响运气，运气影响后续随机。目前为半成品版本，颜色反馈可能存在延迟，非贵重物品暂时不受影响。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "PotatoePet-AdvancedREPO_Config-1.0.2",
+    "cn_xc-RandomValueMod-1.6.3"
+  ],
+  "author": "dyxc666"
+}
