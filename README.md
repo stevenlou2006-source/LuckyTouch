@@ -110,3 +110,13 @@
 ---
 
 *如有问题，请在模组页面反馈。*
+
+---
+
+## 许可证
+
+本项目以 **GNU General Public License v3.0** 发布。
+
+Copyright (C) 2026 cn_xc
+
+完整条款见仓库根目录 [LICENSE](LICENSE)。
